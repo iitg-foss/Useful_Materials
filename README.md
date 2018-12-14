@@ -28,3 +28,5 @@ So, that's it.!! Happy Coding
 2. [Contributing to your First Open Source Projects](https://blog.devcenter.co/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae)
 3. [Everyday Git](https://git-scm.com/docs/giteveryday) -  A useful minimum set of commands for Everyday Git.
 4. [GitHub cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+By @ArighnaIITG and @codervivek.
